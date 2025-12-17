@@ -18,5 +18,4 @@ Simple chatbot interaktif menggunakan JavaScript.
 2. Klik Kirim
 3. Ikuti percakapan bot
 
-## Demo
-Aktifkan GitHub Pages untuk melihat demo online.
+https://riskyipol.github.io/ikibot-simple-chat/
